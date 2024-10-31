@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 574px) {
   .not {
-    display: none;
+    visibility: hidden;
   }
   .yes {
     visibility: visible;
