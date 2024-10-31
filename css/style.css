@@ -5,6 +5,13 @@
 .yes {
   visibility: hidden;
 }
+.back{
+  width: 100%;
+  height: auto;
+  background-image: url(..//assest/bg.jpg);
+ background-size: cover;
+  background-repeat: no-repeat;
+}
 
 @media screen and (max-width: 574px) {
   .not {
